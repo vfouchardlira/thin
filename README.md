@@ -1,1 +1,1 @@
-fix export tensorrt with dynamic size
+Fix Yolo 8.0.206 scale bug (#7821)
