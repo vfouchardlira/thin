@@ -1,1 +1,1 @@
-docs: update view-results-in-terminal.md (#66)
+ultralytics 8.1.15 add Python 3.12 compatibility (#8210)
