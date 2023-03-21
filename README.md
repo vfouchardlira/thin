@@ -1,1 +1,1 @@
-TensorRT FP16 export with dynamic=True (#7870)
+Fixed RTDETR GFLOPs bug (#7309)
