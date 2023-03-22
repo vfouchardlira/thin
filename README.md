@@ -1,1 +1,1 @@
-ultralytics 8.0.227 respect defaults.yaml data (#6935)
+Hold failed upload metrics and upload with next upload metrics (#8513)
