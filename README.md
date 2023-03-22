@@ -1,1 +1,1 @@
-Fixed RTDETR GFLOPs bug (#7309)
+ultralytics 8.0.227 respect defaults.yaml data (#6935)
