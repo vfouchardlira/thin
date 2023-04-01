@@ -1,1 +1,1 @@
-ultralytics 8.1.25 OpenVINO LATENCY and THROUGHPUT modes (#8058)
+Explorer API video https://youtu.be/3VryynorQeo  (#7838)
