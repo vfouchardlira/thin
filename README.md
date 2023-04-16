@@ -1,1 +1,1 @@
-Compress docs images (#8124)
+Explorer with LanceDB, Actions and Docs updates (#7487)
