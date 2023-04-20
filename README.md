@@ -1,1 +1,1 @@
-Move Explorer tests to scheduled CI (#8305)
+Fix names bug when exporting YOLOv8-World to ONNX (#8941)
