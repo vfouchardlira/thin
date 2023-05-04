@@ -1,1 +1,1 @@
-Update the heatmap module code + docs (#7045)
+Desktop Mode Switch - A switch inside the tab switcher that can be used to toggle desktop mode on / off globally
