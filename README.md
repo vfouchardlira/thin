@@ -1,1 +1,1 @@
-Integrate OpenVINO CUMULATIVE_THROUGHPUT mode batched inference (#8834)
+Add https://youtu.be/OpWpBI35A5Y to inference-api Docs (#8717)
