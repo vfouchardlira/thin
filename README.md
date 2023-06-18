@@ -1,1 +1,1 @@
-Add horizontal Mosaic3 augmentation (#6898)
+Improve Coral Edge TPU guide (#8160)
