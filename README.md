@@ -1,1 +1,1 @@
-ultralytics 8.1.1 Docs, Solutions and Export updates (#7545)
+Resize angle, count, and stage on keypoint number change (#7598)
