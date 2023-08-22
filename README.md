@@ -1,1 +1,1 @@
-Updated SQL Query Plot Code (#8120)
+Add horizontal Mosaic3 augmentation (#6898)
