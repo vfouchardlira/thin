@@ -1,1 +1,1 @@
-Link checks SSL insecure robustness (#7853)
+Add horizontal Mosaic3 augmentation (#6898)
