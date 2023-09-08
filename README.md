@@ -1,1 +1,1 @@
-fix non-coco val
+Update Discord and Contributing Guide URLs (#9270)
