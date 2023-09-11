@@ -1,1 +1,1 @@
-Update pyproject.toml [tool.pytest.ini_options] (#9259)
+Add object blurring & object cropping modules in Ultralytics docs (#7434)
