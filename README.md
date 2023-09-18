@@ -1,1 +1,1 @@
-Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
+Feature: Create HUB Models from CLI or Python Script (#7316)
