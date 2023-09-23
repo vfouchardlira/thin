@@ -1,1 +1,1 @@
-OBB: Fix plot_images (#7592)
+Fix OpenVINO missing batch-size bug (#9264)
