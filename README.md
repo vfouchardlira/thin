@@ -1,1 +1,1 @@
-ultralytics 8.1.25 fix **kwargs: (dict) warnings (#8815)
+Fix IS_PYTHON_3_12 bug (#9258)
