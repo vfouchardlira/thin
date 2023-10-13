@@ -1,1 +1,1 @@
-fix val each epoch
+Update HTTP to HTTPS (#7548)
