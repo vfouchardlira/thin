@@ -1,1 +1,1 @@
-Add docstrings to new HUB functions (#7576)
+Fix an issue with flatbuffer version for Raspberry Pi (#8311)
