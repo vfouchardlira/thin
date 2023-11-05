@@ -1,1 +1,1 @@
-Retry once for Docker CI failures (#8164)
+Update CI.md with CI links (#8786)
