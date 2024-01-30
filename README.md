@@ -1,1 +1,1 @@
-ultralytics 8.0.228 add training time argument (#7054)
+Explorer with LanceDB, Actions and Docs updates (#7487)
