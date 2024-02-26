@@ -1,1 +1,1 @@
-Update the heatmap module code + docs (#7045)
+Docs updates: Add Explorer to tab, YOLOv5 in Guides and Usage in Quickstart (#7438)
