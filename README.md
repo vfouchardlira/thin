@@ -1,1 +1,1 @@
-Pass callbacks to validator (#7320)
+Fixed dataloader CPU bottleneck for small batch sizes (#7659)
