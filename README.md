@@ -1,1 +1,1 @@
-ultralytics 8.1.31 NCNN and CLIP updates (#9235)
+YOLOv8.1 blog, Explorer notebook and 2023 > 2024 updates (#7469)
