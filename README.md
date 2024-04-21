@@ -1,1 +1,1 @@
-Docs updates and improvements (#8183)
+Compress docs images (#8124)
