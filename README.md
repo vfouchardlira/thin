@@ -1,1 +1,1 @@
-Add OBB save_txt feature (#7450)
+Fix names bug when exporting YOLOv8-World to ONNX (#8941)
