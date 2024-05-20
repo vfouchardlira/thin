@@ -1,1 +1,1 @@
-ultralytics 8.0.230 TensorRT export hang fix (#7180)
+Bump codecov/codecov-action from 3 to 4 in /.github/workflows (#8022)
