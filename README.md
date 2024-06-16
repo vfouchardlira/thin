@@ -1,1 +1,1 @@
-OBB: Fix plot_images (#7592)
+Add domain checks to CI docs page (#8714)
