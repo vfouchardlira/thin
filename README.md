@@ -1,1 +1,1 @@
-Mkdocs updates (#8008)
+OBB: Fix plot_images (#7592)
