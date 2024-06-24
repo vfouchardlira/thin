@@ -1,1 +1,1 @@
-Fix xyxyxyxyn calculation, swap axis (#8249)
+Fix PNNX ubuntu -> linux bug (#7050)
