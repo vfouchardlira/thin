@@ -1,1 +1,1 @@
-ultralytics 8.1.29 improved disk space checking on correct path (#8977)
+Do RTDETR file suffix check using pathlib instead of string manipulations (#8525)
