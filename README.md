@@ -1,1 +1,1 @@
-Remove JAX constraints in Exporter (#8309)
+ultralytics 8.1.26 LoadImagesAndVideos batched inference (#8817)
