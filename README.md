@@ -1,1 +1,1 @@
-ultralytics 8.1.29 improved disk space checking on correct path (#8977)
+Ultralytics Actions with OpenAI GPT-4 PR Summary (#7867)
