@@ -1,1 +1,1 @@
-Add CoreML Docs Integrations Page (#8063)
+Fixed dataloader CPU bottleneck for small batch sizes (#7659)
