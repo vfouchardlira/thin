@@ -1,1 +1,1 @@
-Improve Docs Modes tables (#8266)
+Python refactorings and simplifications (#7549)
