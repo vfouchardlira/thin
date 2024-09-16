@@ -1,1 +1,1 @@
-fix for KeyError: 'epoch' (#48)
+Update Discord and Contributing Guide URLs (#9270)
