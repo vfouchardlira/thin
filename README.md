@@ -1,1 +1,1 @@
-Add integrations/gradio Docs page (#7935)
+docs: update view-results-in-terminal.md (#66)
