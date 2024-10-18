@@ -1,1 +1,1 @@
-Elaborate Train and Predict mode docs arguments (#8137)
+fix for predicting with batch_size > 1 (#47)
